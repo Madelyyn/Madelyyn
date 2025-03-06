@@ -1,1 +1,1 @@
-<img src="https://maddie.pics/u/BwIULA.png" alt="Quiz" style="width:100%; max-width:800px;" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bp6rozoys3f3x7a3r4wi3o3kia&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
