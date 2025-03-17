@@ -4,6 +4,6 @@
   </a>
   <br>
   <a href="https://wakatime.com/@e9e4c53f-4262-44c9-860d-64f34fe89efa">
-    <img src="https://wakatime.com/badge/user/e9e4c53f-4262-44c9-860d-64f34fe89efa.svg" alt="WakaTime">
+    <img src="https://wakatime.com/badge/user/e9e4c53f-4262-44c9-860d-64f34fe89efa.png" alt="WakaTime">
   </a>
 </p>
