@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java         20 mins               ███████████▒░░░░░░░░░░░░░   45.25 %
-Rust         14 mins               ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-TypeScript   5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Other        3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Markdown     1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
