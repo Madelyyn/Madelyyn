@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        12 mins               █████████████████████░░░░   83.59 %
-Git Config   1 min                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-CSS          0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
